@@ -23,3 +23,5 @@ Limit attempts
 4. Hints
 
 5. Sound effect
+
+6. Look at Array and String Methods, JSON
